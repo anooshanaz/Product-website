@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Hero = () => {
   return (
-    <div id='hero' className='min-h-screen'
+    <div id='hero' className='min-h-screen'>
       <Navbar/>
       <div className='container grid lg:grid-cols-1 h-[calc(100vh-600px)]'>
         <div className='hidden lg:block'></div>
